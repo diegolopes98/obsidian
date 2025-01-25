@@ -1,0 +1,10 @@
+{
+  "trashOption": "none",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "attachments",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "vimMode": true
+}
